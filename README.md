@@ -23,8 +23,8 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 
--  **Working :** JS - PYTHON :computer: | Hacking :man_technologist: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:        
+-  **Working :** JS - PYTHON | Hacking :computer: 
+-  **Learning :** Full-Stack | Open-Source :fire:        
 -  **Hobbies :** Games 👻 | Music :headphones: | Sleep :sleep:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
@@ -32,7 +32,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **My Website** running on the emulator to the first **School Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [Github](https://github.com/ndpaslam/) ask for a **Minecraft** game anytime. Connect with me on [**instagram**](https://www.instagram.com/kaixzzoo/). Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: 
+My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from writing my first ***Hello world*** program in my college to the first **HTML** page to the first **My Website** running on the emulator to the first **School Learning** model I trained on my system. It has been a journey of consecutive efforts and I look forward to more *open source* projects now. Apart from [Github](https://github.com/kaixzzoo/) ask for a **Minecraft** game anytime. Connect with me on [**instagram**](https://www.instagram.com/kaixzzoo/). Make pull requests and I will be happy to merge them. Also :star: if you like any :hugs: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
