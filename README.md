@@ -1,4 +1,4 @@
-### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 <a href="https://www.flaticon.com/free-icons/verified"><img src="https://www.flaticon.com/free-icons/verified" title="verified icons">Want To Get?</a> 
 
