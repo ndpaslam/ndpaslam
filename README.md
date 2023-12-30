@@ -69,6 +69,7 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndpaslam&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8)
+</p>
 
 
 
