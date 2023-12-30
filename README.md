@@ -29,7 +29,7 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 
 
 
-<!-- <a href="https://github.com/kaixzzoo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaixzzoo&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/kaixzzoo/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaixzzoo&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaixzzoo)  
+<!-- <a href="https://github.com/ndpaslam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndpaslam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/ndpaslam/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndpaslam&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ndpaslam)  
  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndpaslam&theme=codeSTACKr)
