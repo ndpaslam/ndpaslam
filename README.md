@@ -27,6 +27,9 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+<p align="center">
+  <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
+</p>
 
 
 <!-- <a href="https://github.com/ndpaslam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndpaslam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/ndpaslam/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndpaslam&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ndpaslam)  
