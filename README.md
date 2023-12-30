@@ -63,16 +63,6 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 <!-- <a href="https://github.com/ndpaslam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndpaslam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/ndpaslam/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndpaslam&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ndpaslam)  
  -->
 
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndpaslam&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndpaslam&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndpaslam&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8)
-</p>
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
