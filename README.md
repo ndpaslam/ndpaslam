@@ -6,7 +6,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KeyaTevoss/)](https://www.facebook.com/KeyaTevoss/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndpaslam/)](https://www.linkedin.com/in/ndpaslam/)
 
-<p align="center"><img src="
+<p align="center"
+img src="https://github.com/ndpaslam/Pic/assets/127666193/6111559c-7317-41c5-b3b8-cc802abf9d5e.png" width="300">
 
  <img src="https://visitor-badge.feriirawann.repl.co?username=ndpaslam&repo=ndpaslam&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
  <a href="https://github.com/ndpaslam"><img src="https://img.shields.io/github/followers/ndpaslam?label=followers&style=social"/></a>
