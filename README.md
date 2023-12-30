@@ -32,13 +32,11 @@ My [**Github**](https://github.com/kaixzzo/) profile potrays my journey from wri
 <!-- <a href="https://github.com/kaixzzoo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaixzzoo&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/kaixzzoo/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaixzzoo&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaixzzoo)  
  -->
 
-<a href="https://github.com/kaixzzoo/github-readme-stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndpaslam&theme=codeSTACKr" alt="Kaixzzoo Github Stats" />
-</a>
-<a href="https://github.com/kaixzzoo/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndpaslam&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndpaslam&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndpaslam&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
