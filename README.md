@@ -37,8 +37,7 @@ My [**Github**](https://github.com/kaixzzo/) profile potrays my journey from wri
 </a>
 <a href="https://github.com/kaixzzoo/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8" />
 </a>
 
 
