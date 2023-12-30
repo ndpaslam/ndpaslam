@@ -25,7 +25,7 @@
 
 -  **Working :** Student | Hacking :computer: 
 -  **Learning :** Full-Stack | Open-Source :fire:        
--  **Hobbies :** Games | Music | Sleep :sleepy:
+-  **Hobbies :** Games | Music | Sleep :sleepy_face:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
 
