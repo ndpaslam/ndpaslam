@@ -2,8 +2,6 @@
 
 <a href="https://www.flaticon.com/free-icons/verified"><img src="https://www.flaticon.com/free-icons/verified" title="verified icons">Want To Get?</a>
 
-<a href='https://pngtree.com/freepng/instagram-bule-tick-insta-blue-star-vector_9074860.html'>png image from pngtree.com/</a>
-
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
 [![Twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kaixzzoo)](https://twitter.com/kaixzzoo)
