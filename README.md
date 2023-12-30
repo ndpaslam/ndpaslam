@@ -1,6 +1,6 @@
-### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
 
-<a href="https://www.flaticon.com/free-icons/verified"><img src="https://www.flaticon.com/free-icons/verified" title="verified icons">Want To Get?</a> 
+<a href="https://www.flaticon.com/free-icons/verified"><img src="https://imagetolink.com/ib/AnDuQRRmmv" title="verified icons">Want To Get?</a> 
 
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
