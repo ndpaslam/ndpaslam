@@ -6,6 +6,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KeyaTevoss/)](https://www.facebook.com/KeyaTevoss/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndpaslam/)](https://www.linkedin.com/in/ndpaslam/)
 
+<p align="center">
+
+ <img src="https://visitor-badge.feriirawann.repl.co?username=U7P4L-IN&repo=U7P4L-IN&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
+ <a href="https://github.com/U7P4L-IN"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
+<img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
+
+<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
+<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
@@ -27,9 +37,23 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+</h1>
+
+<!-- Nothing weird to see here -->
 <p align="center">
-  <img width="220" src="https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png" />
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme.andyruwruw.com/api/top-played">
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  
 
 
 <!-- <a href="https://github.com/ndpaslam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndpaslam&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a> <a href="https://github.com/ndpaslam/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndpaslam&langs_count=8"></a>![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ndpaslam)  
