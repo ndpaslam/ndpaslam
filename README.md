@@ -33,11 +33,12 @@ My [**Github**](https://github.com/kaixzzo/) profile potrays my journey from wri
  -->
 
 <a href="https://github.com/kaixzzoo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaixzzoo&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache" alt="Kaixzzoo Github Stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndpaslam&theme=codeSTACKr" alt="Kaixzzoo Github Stats" />
 </a>
 <a href="https://github.com/kaixzzoo/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaixzzoo&layout=compact&theme=chartreuse-dark&cache" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndpaslam&theme=codeSTACKr" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndpaslam&theme=codeSTACKr&utcOffset=8" />
 </a>
 
 
