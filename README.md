@@ -23,9 +23,9 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 
--  **Working :** JS - PYTHON | Hacking :computer: 
+-  **Working :** Student | Hacking :computer: 
 -  **Learning :** Full-Stack | Open-Source :fire:        
--  **Hobbies :** Games 👻 | Music :headphones: | Sleep :sleep:
+-  **Hobbies :** Games | Music | Sleep :snooring:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
 
