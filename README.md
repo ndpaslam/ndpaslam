@@ -12,7 +12,7 @@
  <a href="https://github.com/ndpaslam"><img src="https://img.shields.io/github/followers/ndpaslam?label=followers&style=social"/></a>
 <img src="https://img.shields.io/github/stars/ndpaslam?label=Stars&style=social" alt="GitHub Badge"> 
 
-<p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
+<p align='center'><img src="https://komarev.com/ghpvc/?username=ndpaslam&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ndpaslam" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
 
