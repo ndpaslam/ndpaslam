@@ -9,8 +9,8 @@
 <p align="center">
 
  <img src="https://visitor-badge.feriirawann.repl.co?username=ndpaslam&repo=ndpaslam&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
- <a href="https://github.com/ndpaslam"><img src="https://img.shields.io/github/followers/U7P4L-IN?label=followers&style=social"/></a>
-<img src="https://img.shields.io/github/stars/U7P4L-IN?label=Stars&style=social" alt="GitHub Badge"> 
+ <a href="https://github.com/ndpaslam"><img src="https://img.shields.io/github/followers/ndpaslam?label=followers&style=social"/></a>
+<img src="https://img.shields.io/github/stars/ndpaslam?label=Stars&style=social" alt="GitHub Badge"> 
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
