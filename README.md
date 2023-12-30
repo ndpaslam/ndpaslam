@@ -1,6 +1,8 @@
 ### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-(https://telegra.ph//file/efb101d8a2d2f56551e43.jpg)
+<div align="center"
+  <img src="https://telegra.ph//file/efb101d8a2d2f56551e43.jpg" width="400" />
+</div>
 
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
