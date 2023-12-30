@@ -23,7 +23,7 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 
--  **Working :** BASH - PYTHON :computer: | Hacking :man_technologist: 
+-  **Working :** JS - PYTHON :computer: | Hacking :man_technologist: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:        
 -  **Hobbies :** Games 👻 | Music :headphones: | Sleep :sleep:
 -  **Ask me about :** Termux!, I have a full website on that :heart:
