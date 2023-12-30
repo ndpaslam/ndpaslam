@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/leviarista/github-profile-header-generator">
-      <img width="410" src="https://repository-images.githubusercontent.com/464195386/913299a3-ab61-4f25-af43-0875996a0f13"/>
+      <img width="410" src="https://github.com/ndpaslam/profile/assets/127666193/d2e8f1a9-297b-438f-8567-8f6d4f660125"/>
     </a>
 
 ### Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
