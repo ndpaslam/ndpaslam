@@ -75,6 +75,10 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
