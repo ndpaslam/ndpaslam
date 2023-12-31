@@ -65,18 +65,17 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 <p align="left"> <a href="https://github.com/ndpaslam"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-370617?style=flat-square&logo=php)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![AzureCloud](https://img.shields.io/badge/-Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
@@ -88,4 +87,4 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 <!--![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress) -->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 ---
-<p align="center"> © 2021 Learning, all rights reserved. Made with ❤️ </p>
+<h2 align="center"> © 2021 Learning, all rights reserved. Made with ❤️ </h2>
