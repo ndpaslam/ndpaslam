@@ -64,7 +64,7 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 
 <p align="left"> <a href="https://github.com/ndpaslam"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![Java](https://img.shields.io/badge/-Java-E6194B?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
