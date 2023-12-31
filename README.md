@@ -91,3 +91,5 @@ My [**Github**](https://github.com/ndpaslam/) profile potrays my journey from wr
 <!--![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel) -->
 <!--![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress) -->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
+---
+<p align="center"> © 2021 Learning, all rights reserved. Made with ❤️ </p>
