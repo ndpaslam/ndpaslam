@@ -2,11 +2,11 @@
 
 <h2 align="center">Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></h2>
 
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
+<h3 align="center">[![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
 [![Twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kaixzzoo)](https://twitter.com/kaixzzoo)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KeyaTevoss/)](https://www.facebook.com/KeyaTevoss/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndpaslam/)](https://www.linkedin.com/in/ndpaslam/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndpaslam/)](https://www.linkedin.com/in/ndpaslam/)</h3>
 
 <p align="center"
 img src="https://github.com/ndpaslam/Pic/assets/127666193/6111559c-7317-41c5-b3b8-cc802abf9d5e.png" width="300">
