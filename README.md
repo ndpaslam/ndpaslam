@@ -27,7 +27,7 @@ img src="https://github.com/ndpaslam/Pic/assets/127666193/6111559c-7317-41c5-b3b
 -  **Working :** Student | Hacking :computer: 
 -  **Learning :** Full-Stack | Open-Source :fire:        
 -  **Hobbies :** Games | Music | Sleep :zzz:
--  **Ask me about :** **karamelenaktau@gmail.com** :heart:
+-  **Ask me about :** **karamelenaktau@gmail.com**
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
 
 
