@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/ndpaslam/ndpaslam/master/Gp-Readme-Stats.gif "Header")](#)
 
 <h2 align="center">Hi there, I'm Nadhif Aslam <Termux/>! :octocat: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></h2>
-
+ 
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-222222?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.link/objld6)](https://wa.link/objld6)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=pink&link=https://www.instagram.com/kaixzzo)](https://www.instagram.com/kaixzzoo)
 [![Twitter](https://img.shields.io/badge/-twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kaixzzoo)](https://twitter.com/kaixzzoo)
@@ -9,11 +9,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndpaslam/)](https://www.linkedin.com/in/ndpaslam/)
 
 <p align="center"
-
-
  <img src="https://visitor-badge.feriirawann.repl.co?username=ndpaslam&repo=ndpaslam&label=Visitor&style=social&color=%23457BFF&contentType=svg"/>
  <a href="https://github.com/ndpaslam"><img src="https://img.shields.io/github/followers/ndpaslam?label=followers&style=social"/></a>
-<img src="https://img.shields.io/github/stars/ndpaslam?label=Stars&style=social" alt="GitHub Badge"> 
+<img src="https://img.shields.io/github/stars/ndpaslam?label=Stars&style=social" alt="GitHub Badge"></p>
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=ndpaslam&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="ndpaslam" />
 <a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
