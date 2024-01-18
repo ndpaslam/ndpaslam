@@ -23,7 +23,7 @@
 
 
 -  **Working :** Student | Hacking :computer: 
--  **Learning :** Full-Stack | Open-Source :fire:        
+-  **Learning :** Half-Stack | Open-Source :fire:        
 -  **Hobbies :** Games | Music | Sleep :zzz:
 -  **Ask me about :** **karamelenaktau@gmail.com** 📫
 -  **Fun fact :** I Know Hacking but I think my self as a programmer :man_technologist: 
